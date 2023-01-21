@@ -1,2 +1,2 @@
 # Ankush-s-Dev-Diary
-My ashnode blogs
+My hashnode blogs
